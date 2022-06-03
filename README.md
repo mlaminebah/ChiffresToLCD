@@ -1,5 +1,12 @@
 # Impression des numéros au format display LCD 
-## 1. Test 
+<ol>
+   <li><b>Test</b><br/>
+      Pour tester le programme <a href ="https://mlaminebah.github.io/ChiffresToLCD/">cliquez ici</a> 
+   </li>
+   <li><b>Structure</b><br/>
+   </li>
+   
+</ol>
 Pour tester le programme <a href ="https://mlaminebah.github.io/ChiffresToLCD/">cliquez ici</a> 
 ## 2. Structure
    2.a. <b>le dossier css :</b> contient le fichier index.css qui a servit à la mise en page<br/>
