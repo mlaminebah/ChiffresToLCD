@@ -1,0 +1,16 @@
+span {
+    display: inline-block;
+    animation: clignote 10s linear infinite;
+}
+@keyframes clignote {  
+    60% { opacity: 0; }
+}
+td {
+    font-size: 50px;
+    font-weight: bold;
+    color: red;
+}
+.digitsLCD {
+    background-color:#1B1A17;
+    width: 80%;
+}
