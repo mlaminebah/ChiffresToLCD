@@ -5,8 +5,9 @@
    </li>
    <li><b>Structure</b>
       <ul>
-         <li><b>le dossier css :</b> contient le fichier index.css qui a servit à la mise en page</li>
-         <li><b>le dossier index :</b> contient le fichier index.js qui a servi à faire le programme qui affiche les chiffres au format LCD</li>
+         <li><b>le dossier css </b> contient le fichier index.css qui a servit à la mise en page</li>
+         <li><b>le dossier index </b> contient le fichier index.js qui a servi à faire le programme qui affiche les chiffres au format LCD dont le principe est le suivant :
+         </li>
       </ul>
    </li>
    
